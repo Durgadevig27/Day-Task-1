@@ -1,0 +1,111 @@
+UI/UX :
+  Providing effective solutions for problems using design.
+
+10 Best Experience:
+************************
+
+1)Google Search:
+-It is world wide search
+-It is simple,quick and fast to find all required informations through online 
+-both educated and uneducated humans can use it using VOICE DETECTION
+-It palys major role in daily life
+-It meets user requrements
+URL: https://www.google.com/search?q=
+
+2)Google Maps:
+-It is accurate also saves time and communication for both Driver and user
+- it is also used to find traving time and path using map
+URL: https://www.google.com/maps
+
+3)Netflix:
+- Netflix' is easy-to-use and personalized content
+-it is used for both fun and entertainment activies
+URL:netflix.com
+
+4)GPay/Phone Pay:
+-Can do payments easily by sacnning QR Code
+-used in daily life (i.e)EB BILL PAYMENT
+-Fast and simple
+-Time consumption
+URL:https://pay.google.com/about/
+
+5)Amazon's One-Click Shopping 
+-  one-click shopping feature simplifies the checkout process, reducing friction in the buying experience.
+-Returning product it is damanged or if doesnot full fill our requirements is advantage
+-door and hand acsh delivery is available
+URL: https://www.amazon.in/s?i=merchant-items&me=A3CTY9BB2UIBO0
+
+6)Spotify 
+- It is user-friendly design create an excellent music streaming experience.
+-It is simple and efficient
+-used for both fun and entertainment activies
+URL: https://support.symdistro.com/hc/en-us/articles/360039036711-Spotify-How-to-obtain-a-URI-URL
+
+7)Instagram/Facebook
+-It plays major role in daily life.Log in activities are good
+-simple and easy accesable and video clarity is best 
+-can update ourself and communicating with friends and family is simple
+URL: https://vistasocial.com/insights/instagram-url/#:~:text=How%20do%20I%20find%20my,shown%20in%20the%20address%20bar.
+
+8)Smartphones:
+- User friendly mobile interfaces with intuitive touch controls 
+-it makes work simple and saves time
+-Can communicate easily has many features (Call, texts, voice detection, fingerprint etc....
+9) Uber/ola:
+-Convenient Trasportation
+--It is asaves time and communication for both Driver and user
+- it is fast and easy booking
+URL:https://auth.uber.com/v2/?breeze_local_zone=phx5&next_url=https%3A%2F%2Fm.uber.com%2Flogin-redirect%2F%3FpreviousPath%3D%252F&state=w8Am1H9ORQzmdLH3SetQE-h7wWtzNY-zVWAXI7DbL5o%3D
+10)Ticket Booking:
+-We can book tickes using mobile phones / devices in our home itself
+-As per convenience can book seat
+=we can also book or cancel in last minitue 
+=-Amount is refundable
+11) ZOMATO/ Swiggy
+- Delivered on time
+-fast and efficient it is easy to order 
+-Customer care is good
+URL: https://www.swiggy.com/
+
+10 Worst User Experiences:
+******************************
+
+1)Watapp:
+- It has been best and worst experience
+When it comes to WORK EXperience( IF WE DELETE A MESSAGE AFTER SENT message is deleted but it is nodified to opposite person who we send texts)
+URL: ttps://wa.me/whatsappphonenumber/?text=urlencodedtext
+2)EB bill payment APP:
+- It is long procedure 1st we should create account, login, enter password, number etc....
+-But using mobile apps are simple and fast
+3)Banking
+URL:https://www.tnebnet.org/awp/login?locale=ta
+-Once we forget our password we can't login inside app
+-It asked to enter old password if we go with forget password and tried to login
+4)Goverment website(I.E ANNA UNIVERSTY RESULT PUBLISHMENT)
+-Many times server becomes down can't see results on time and it is delayed
+-many time portal is not working
+-time and enery waste
+URL: https://www.annauniv.edu/
+
+5)Dishwasher Control Panels 
+- Some dishwasher control panels have unclear icons and buttons
+- leading to user confusion.
+URL: https://www.lg.com/us/support/help-library/understanding-dishwasher-control-panel-indicators-CT10000009-20152435193453
+
+6)Online Forms with Poor Error Handling 
+- Forms that don't provide clear error messages are frustrating for users when they are trying to submit information
+-Some times captcha is not working
+7)Body Temperature Checking appls:
+-many times it is not giving accurate results
+-it is frustrated
+8)Elevator Waiting Times:
+- Long waits for elevators in crowded bulidings can be inconvenient
+-limited number of persons are only allowed
+9)printers:
+-paper jams, ink problems connectivity issues makes frustated '
+-some time it takes more energy and time
+10)Captcha 
+- Complex captchas can frustrate users and lead to a poor sign-up or login experience.
+-Manytimes it is not working
+-It takes more enery and time
+-bad experience not meeting customer needs.
